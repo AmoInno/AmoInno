@@ -2,11 +2,11 @@
 
 ## About Me:
 I am a software development student at Codespace Academy👩‍💻. My journey to learn programming is driven by a love of exploring new 
-technologies. I am always eager to learn and create.
+technologies and my passion for learning. 
 
 - 🌍 I'm from South Africa.
-- ⚽ My favourite sport is netball.
--  🔭 I’m currently working on **my first portfolio piece**
+- 😃 I'm most excited to use my creativity to **create applications** that improve lives.
+- 🔭 I’m currently working on **my first portfolio piece**
 - 🌱 I’m currently learning **Javascript**
 - 👯 I’m looking to collaborate on **open-source projects**
 - ⚡ Fun fact **I am the most extroverted shy person I know.**
